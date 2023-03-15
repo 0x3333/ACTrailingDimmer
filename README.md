@@ -9,6 +9,8 @@ The firmware is has not been written yet.
 
 *** THIS HAS NOT BEEN TESTED ***
 
+[Schematic](.github/schematic.pdf?raw=true)
+
 
 PCB:
 
