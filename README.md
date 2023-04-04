@@ -1,6 +1,6 @@
 # AC Trailing Edge Dimmer
 
-This is a Trailing Edga MOSFET Dimmer I'm working on.
+This is a Trailing Edga MOSFET Dimmer I'm working on. The specs are for 110V AC, not 220V or so, some components values must be changed.
 
 It uses a ATMega 32u4 / Pro Micro module.
 
